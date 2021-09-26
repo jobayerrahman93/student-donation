@@ -17,7 +17,7 @@ const Card = () => {
     }, []);
 
     const cartHandler = (product) => {
-
+      
         const newCart = [...cart, product];
         setCart(newCart);
 
