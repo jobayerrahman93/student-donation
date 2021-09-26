@@ -1,0 +1,8 @@
+.cart{
+    border: 1px solid chartreuse;
+    margin: 20px;
+    background-color: #34495e;
+    color: #fff;
+    border-radius: 10px;
+    padding-bottom: 15px;
+}
